@@ -1,0 +1,2 @@
+This README.md offers the start of my code in creating my professinal portfolio, I plan to build out my web portfolio folling a number of steps and then recording my progress here as a journal.
+I didn't get to journalize as much as I wanted to, but I got crunched for time. I created sections for the four Apps I want to build in the future using my expanded knowledge of JavaScript. The stylesheet is mostly formatting to make the page look more professional. Certain elements of the page can use more work to create a better aesthetic.
